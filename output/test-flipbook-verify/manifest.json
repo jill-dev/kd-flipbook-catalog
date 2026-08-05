@@ -1,0 +1,12 @@
+{
+  "slug": "test-flipbook-verify",
+  "title": "API End-to-End Test Auction",
+  "siteUrl": "https://example.com/listing",
+  "measurementId": null,
+  "pages": [
+    "pages/01-cover.html",
+    "pages/02-sale-info.html",
+    "pages/03-lots-1.html",
+    "pages/04-closing.html"
+  ]
+}
